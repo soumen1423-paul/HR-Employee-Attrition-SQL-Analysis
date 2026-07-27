@@ -16,3 +16,23 @@ The objective of this project is to analyze HR employee data using SQL and answe
 - MySQL Workbench
 - SQL
 - GitHub
+## 🧠 SQL Skills Used
+
+- SELECT
+- WHERE
+- GROUP BY
+- HAVING
+- ORDER BY
+- Aggregate Functions
+- CASE WHEN
+- Subqueries
+- Correlated Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions
+  - DENSE_RANK()
+  - LAG()
+  - LEAD()
+  - NTILE()
+  - PERCENT_RANK()
+  - SUM() OVER()
+- Views
