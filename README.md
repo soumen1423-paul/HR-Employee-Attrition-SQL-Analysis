@@ -249,3 +249,22 @@ ORDER BY job_satisfaction,
 - Salary ranking and quartile analysis support compensation planning.
 - High-risk employees can be identified using overtime, job satisfaction, and work-life balance.
 - Employees earning above the department average often hold key positions.
+### 📊 Department KPI Dashboard
+
+![Department KPI Dashboard](screenshots/department-kpi-dashboard.png)
+
+### 🚨 High-Risk Employees
+
+![High-Risk Employees](screenshots/high-risk-employees.png)
+
+### 📉 Department with the Highest Attrition Rate
+
+![Highest Attrition Department](screenshots/highest-attrition-department.png)
+
+### 💰 Salary Comparison Using LAG()
+
+![Salary Comparison Using LAG](screenshots/salary-lag-analysis.png)
+
+### 🏆 Top 10% Highest Paid Employees
+
+![Top 10% Highest Paid Employees](screenshots/top-10-percent-salary.png)
