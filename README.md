@@ -239,3 +239,13 @@ WHERE over_time = 'yes'
 ORDER BY job_satisfaction,
          work_life_balance;
 ```
+# 📈 Key Business Insights
+
+- Sales department has the highest employee attrition rate.
+- Employees working overtime are more likely to leave the company.
+- Employees under 30 have the highest attrition rate.
+- Lower-paid employees have a higher attrition rate.
+- Department KPI Dashboard provides department-wise HR performance metrics.
+- Salary ranking and quartile analysis support compensation planning.
+- High-risk employees can be identified using overtime, job satisfaction, and work-life balance.
+- Employees earning above the department average often hold key positions.
