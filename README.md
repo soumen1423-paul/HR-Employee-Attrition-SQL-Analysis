@@ -268,3 +268,11 @@ ORDER BY job_satisfaction,
 ### 🏆 Top 10% Highest Paid Employees
 
 ![Top 10% Highest Paid Employees](screenshots/top-10-percent-salary.png)
+
+# ✅ Conclusion
+
+This project demonstrates how SQL can be used to analyze HR employee data and solve real business problems. Using advanced SQL techniques such as CTEs, Window Functions, Correlated Subqueries, Views, Aggregate Functions, and Ranking Functions, I analyzed employee demographics, salary distribution, performance, attrition trends, and department-level KPIs.
+
+The analysis identified key business insights, including departments with high attrition, the impact of overtime on employee retention, salary distribution across departments, top-performing employees, and employees at high risk of attrition. These insights can help HR teams make data-driven decisions related to workforce planning, compensation, employee engagement, and retention strategies.
+
+This project strengthened my practical SQL skills and demonstrates my ability to transform raw HR data into meaningful business insights for decision-making.
